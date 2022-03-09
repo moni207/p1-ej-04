@@ -1,5 +1,7 @@
 # ejercicio-04
 
+## Consigna
+
 Se recogen los siguientes datos para una encuesta: ciudad, sexo (H o M) y edad (0 a 110)
 
 Calcule e informe los siguientes datos:
