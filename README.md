@@ -15,3 +15,17 @@ Calcule e informe los siguientes datos:
 - La menor edad ingresada de los hombres
 
 Los tres valores ingresados deben ser validados según corresponda
+
+## Entrega
+
+- Clonar este repositorio localmente
+- Crear un repositorio personal con el nombre `dw-p1-04`
+- Modificar este `README.md` con este contenido:
+
+```markdown
+### Alumno: ...
+
+#### Comision: ...
+```
+
+- Subir los archivos `index.html`, `index.js` y `README.md`
